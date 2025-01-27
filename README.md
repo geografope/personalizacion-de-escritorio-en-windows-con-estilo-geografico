@@ -1,1 +1,0 @@
-# personalizacion-de-escritorio-windows-con-qgis
