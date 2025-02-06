@@ -7,6 +7,8 @@ Adapta tu entorno de trabajo según tu ubicación 📍,y lleva tu pasión por la
 Si quieres que tu personalización aparezca en este panel, usa los hashtags #geografope y #geoaesthict. ¡Seguro que estará aquí!
 Si no, envíame un pequeño pull request.
 
+<img src= "img/bg_001.jpeg" width=200>
+
 ## ⚫ Pasos a realizar 
 1. Primer paso: Instalación de `Rainmeter` y `QGIS`.
 2. Segundo paso: Configuración de `Rainmeter`.
