@@ -17,7 +17,7 @@ Si no, envíame un pequeño pull request.
 
 Todo el proceso desarrollado esta explicado al detalle en el siguiente video de YouTube 🎥.
 
-[![Watch the video](https://img.youtube.com/vi//0.jpg)](https://www.youtube.com/watch?v=)
+[![Watch the video](https://img.youtube.com/vi/h-YZXkZeOmY/0.jpg)](https://www.youtube.com/watch?v=h-YZXkZeOmY)
 
 
 ¡Enteráte más y aprender conmigo! 🔍💡 Suscríbete, activa las notificaciones 🔔 y únete a la comunidad que ama el software libre de código abierto. 🌟🌍 👇
